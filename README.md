@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @american111
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning phton and web development fundaments
+- 🌱 I’m currently learning pyhton and web development fundaments
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me Telegram (t.me/Anvarjonov_Boburmirzo)
 
